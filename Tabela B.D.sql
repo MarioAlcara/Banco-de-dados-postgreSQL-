@@ -302,7 +302,7 @@ create table bairro (
 	
 	
 	insert into municipio (idmunicipio, nome, iduf) values (1,'Porto Uniao', 1);
-    insert into municipio (idmunicipio, nome, iduf) values (2,'Canoinhas', 1);
+        insert into municipio (idmunicipio, nome, iduf) values (2,'Canoinhas', 1);
 	insert into municipio (idmunicipio, nome, iduf) values (3,'Porto Vitória', 2);
 	insert into municipio (idmunicipio, nome, iduf) values (4,'General Carneiro', 2);
 	insert into municipio (idmunicipio, nome, iduf) values (5,'São Paulo', 3);
